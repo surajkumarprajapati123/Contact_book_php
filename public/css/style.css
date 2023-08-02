@@ -1,0 +1,12 @@
+.img-list {
+    width: 80px;
+}
+.profile_image img
+{
+    width: 10%;
+    background-color: red;
+}
+.welcome
+{
+    margin: 10px auto;
+}
